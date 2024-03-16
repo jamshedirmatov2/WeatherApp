@@ -1,4 +1,4 @@
-package com.wigroup.weatherapp.ui.theme
+package com.wigroup.weatherapp.presentation.ui.theme
 
 import android.app.Activity
 import android.os.Build

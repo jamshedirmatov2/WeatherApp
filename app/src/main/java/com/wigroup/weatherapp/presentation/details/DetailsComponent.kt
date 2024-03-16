@@ -1,0 +1,3 @@
+package com.wigroup.weatherapp.presentation.details
+
+interface DetailsComponent

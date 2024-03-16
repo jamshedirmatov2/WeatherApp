@@ -1,0 +1,3 @@
+package com.wigroup.weatherapp.presentation.favourite
+
+interface FavouriteComponent
