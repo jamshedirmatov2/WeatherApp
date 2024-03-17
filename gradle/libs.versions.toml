@@ -43,7 +43,6 @@ dagger-compiler = { group = "com.google.dagger", name = "dagger-compiler", versi
 glide-compose = { group = "com.github.bumptech.glide", name = "compose", version.ref = "glide" }
 retorfit-core = { group = "com.squareup.retrofit2", name = "retrofit", version.ref = "retrofit" }
 retorfit-gsonConverter = { group = "com.squareup.retrofit2", name = "converter-gson", version.ref = "retrofit" }
-icons = { group = "androidx.compose.material", name = "material-icons-extended" }
 
 [plugins]
 androidApplication = { id = "com.android.application", version.ref = "agp" }
