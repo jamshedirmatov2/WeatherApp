@@ -68,7 +68,7 @@ dependencies {
     implementation(libs.glide.compose)
     implementation(libs.retorfit.core)
     implementation(libs.retorfit.gsonConverter)
-    implementation(libs.icons)
+//    implementation(libs.icons)
 
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.lifecycle.runtime.ktx)
