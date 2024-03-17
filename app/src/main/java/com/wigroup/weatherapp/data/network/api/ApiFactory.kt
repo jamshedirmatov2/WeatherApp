@@ -8,7 +8,7 @@ import retrofit2.create
 object ApiFactory {
 
     private const val KEY_PARAM = "key"
-    private const val API_KEY = "value"
+    private const val API_KEY = "f660a184a10d4de4a2181054241703"
     private const val BASE_URL = "https://api.weatherapi.com/v1/"
 
     private val okHttpClient = OkHttpClient.Builder()
